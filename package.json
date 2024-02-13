@@ -1,0 +1,23 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "recipe application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "joaobraun",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.6",
+    "@babel/plugin-proposal-private-methods": "^7.18.6",
+    "@babel/plugin-syntax-class-properties": "^7.12.13",
+    "@parcel/transformer-sass": "^2.10.3",
+    "parcel": "^2.10.3"
+  },
+  "dependencies": {
+    "core-js": "^3.34.0",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
