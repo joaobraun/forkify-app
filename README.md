@@ -4,7 +4,7 @@ This project is based on the project created by Jonas Schmedtmann from his cours
 
 ## Project Info
 
-This app displays recipes, servings and how to cook it. You have a search input, a sidebar displaying all recipes, a bookmark and also you can add your own recipes. This project uses Jonas API to fetch data, and the ```MVC architecture``` to organize the code modules. Here we used many Javascript ES6+ features, also using classes to make a better use of the architecture, the project is bundled to compress the code and also transpiled to support older browsers so that the app can run in most environments.
+This app displays lots of differents recipes, servings and how to cook it. You have a search input, a sidebar displaying all recipes you searched, a bookmark and also you can add your own recipes. This project uses Jonas API to fetch data, and the ```MVC architecture``` to organize the code modules. Here we used many Javascript ES6+ features, also using classes to make a better use of the architecture, the project is bundled to compress the code and also transpiled to support older browsers so that the app can run in most environments.
 
 ## Installing and Running
 
