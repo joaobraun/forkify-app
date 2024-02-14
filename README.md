@@ -1,6 +1,6 @@
 ## Notes
 
-This project is based on the project created by Jonas Schmedtmann from his <a href="https://github.com/jonasschmedtmann">course</a>. You can check the full application <a href="https://forkify-v2.netlify.app">here!</a>
+This project is based on the project created by <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann</a> from his course. You can check the full application <a href="https://forkify-v2.netlify.app">here!</a>
 
 ## Project Info
 
