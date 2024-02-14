@@ -31,4 +31,4 @@ if done correctly you should see on the terminal the message *"Server running at
 
 ## Other Considerations
 
-This project is made for education purposes.
+This project is made by Jonas Schmedtmann for learning purposes.
