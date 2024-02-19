@@ -15,13 +15,6 @@ You'll need ```node``` and ```npm``` installed locally. Then run:
 ```
 npm install
 ```
-This project uses <a href="https://parceljs.org">Parcel</a> to bundle the project files so you will need to build the project locally and then run the development server.
-After all dependencies are installed, just run the build command:
-
-```
-npm run build
-```
-
 and then to run locally:
 
 ```
