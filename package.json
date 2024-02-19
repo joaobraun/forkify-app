@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "recipe application",
   "default": "index.html",
+  "includeNodeModules": true,
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
