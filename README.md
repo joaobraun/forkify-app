@@ -1,3 +1,5 @@
+Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/4c6f6851-6a3c-4de4-bfef-30393ee3f119/deploy-status)](https://app.netlify.com/sites/forkify-joaobraun/deploys)
+
 ## Notes
 
 This project is based on the project created by <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann</a> from his JavaScript course. You can check the full application <a href="https://forkify-joaobraun.netlify.app">here!</a>
